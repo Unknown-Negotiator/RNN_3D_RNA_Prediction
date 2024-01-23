@@ -1,6 +1,6 @@
 # RNA bioinformatics - M2-GENIOMHE project
 
-**[Project Presentation](https://docs.google.com/presentation/d/1hIQLwLdHiqBkKJV0TIPdSKCG0pdY6B-_Vd3H32T0SBA/edit?usp=sharing)**
+## [Project Presentation](https://docs.google.com/presentation/d/1hIQLwLdHiqBkKJV0TIPdSKCG0pdY6B-_Vd3H32T0SBA/edit?usp=sharing)
 
 ## Repository
 
